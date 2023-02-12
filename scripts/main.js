@@ -25,5 +25,5 @@ btnContact.onclick = function() {
 }
 
 btnBlog.onclick = function() {
-    alert("Статей нет, лох печальный)");
+    alert("Статей больше нет)");
 }
